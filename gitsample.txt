@@ -1,1 +1,1 @@
-Hi this is my first girt sample
+Hi this is my first git sample
